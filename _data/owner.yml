@@ -1,11 +1,11 @@
-###########################################################
+# #########################################################
 # Owner's Personal Information
 ###########################################################
 # This is your brand name
-brand: "Your Brand"
+brand: "dodo.Blog"
 
 # used for seo meta post author (if it's not defined in post)
-name: "Your Name"
+name: "gahyun.Nam"
 
 # if you don't want to add copyright year, comment or leave it blank.
 # the year during which the claimed copyright for the work was first asserted.
